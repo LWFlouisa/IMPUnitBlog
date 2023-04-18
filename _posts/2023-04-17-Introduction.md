@@ -14,4 +14,4 @@ The scripts create an RSS feed for:
 -- Image generation and recognition
 </pre>
 
-The next few blog posts will go over more specifically what I aim to achieve with each of these.
+The next few blog posts will go over more specifically what I aim to achieve with each of these. But this protocol can be thought of as a Static XML generated for automated data processing. Similar to stuff like Jekyll, but for XML rather than HTML. Eventually I plan to extend it beyond jekyll and have it be useable over IPFS networks.
